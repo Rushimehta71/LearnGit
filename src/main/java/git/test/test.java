@@ -6,9 +6,11 @@ public class test {
 		
 		
 		
-		
+		String name1 = "Rushi";
 		int number = 100;
-		String name = "Rushi";
+		int number2 = 100;
+		String name2 = "Rushi";
+		String name3 = "Rushi";
 		
 		
 		
