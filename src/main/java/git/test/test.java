@@ -8,7 +8,8 @@ public class test {
 		
 		
 		int number = 100;
-		String name = "Rushi";
+		String nam = "Rushi";
+		String nam1 = "Rushi";
 		
 		
 		
